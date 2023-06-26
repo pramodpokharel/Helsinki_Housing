@@ -1,5 +1,5 @@
 # Helsinki_Housing
-trying to predict price
+
 
 Utilized Python to clean and preprocess the extracted data.
 
